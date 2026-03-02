@@ -32,14 +32,12 @@ Tech Stack
 
 Installation & Setup
 1.	Clone the Repo:
-Bash
+   
 git clone https://github.com/BHAVANA25IT/stock-sentiment-ml-engine.git
-2.	Install Dependencies:
-Bash
-pip install -r requirements.txt
+
 3.	API Setup:
-     Get a free API key from NewsAPI.org.
-     In Google Colab, add it to the Secrets (Key icon) as NEWS_API_KEY.
+   Get a free API key from NewsAPI.org.
+   In Google Colab, add it to the Secrets (Key icon) as NEWS_API_KEY.
 
 
 
